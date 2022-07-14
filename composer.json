@@ -1,0 +1,16 @@
+{
+    "name": "macbookair/excel-parser",
+    "autoload": {
+        "psr-4": {
+            "Macbookair\\ExcelParser\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Chaouachi hamza"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.24"
+    }
+}
